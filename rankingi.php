@@ -18,9 +18,7 @@
             <a class="subpage-li" href='contact.php'>Kontakt</a>
         </div>
     </header>
-    <main>
-        <div class="tile"></div>
-    </main>
+    <main></main>
     <footer>Nie mam pojecia co tu napisać</footer>
 
 </body>
